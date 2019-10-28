@@ -1,0 +1,20 @@
+{
+  "name": "uzi-doc",
+  "version": "0.0.1",
+  "description": "文维护工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.coding.net/v4xyz/uzi-doc.git"
+  },
+  "author": "v4xyz@126.com",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^8.0.2",
+    "koa": "^2.10.0",
+    "koa-body": "^4.1.1"
+  }
+}
