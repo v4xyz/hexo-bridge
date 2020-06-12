@@ -17,6 +17,7 @@
     "@koa/router": "^8.0.2",
     "koa": "^2.10.0",
     "koa-body": "^4.1.1",
-    "koa-logger": "^3.2.1"
+    "koa-logger": "^3.2.1",
+    "yaml-front-matter": "^4.1.0"
   }
 }
